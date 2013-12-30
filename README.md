@@ -1,0 +1,4 @@
+meanreversion
+=============
+
+spread series analysis
